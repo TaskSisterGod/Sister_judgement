@@ -13,3 +13,4 @@ CNNで学習
 
 ## 画像収集
 sister_collect.py
+使い方：python3 sister_collect.py -t sister -n 50
